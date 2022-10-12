@@ -1,7 +1,8 @@
 ## General Information
 
-Project Title: Climate-based Temperature and Rainfall Correlation
-Authors: Aabid Anas, Matthew Chan, Shayaan Khan, Markus Nimi
+**Project Title:** Climate-based Temperature and Rainfall Correlation
+
+**Authors:** Aabid Anas, Matthew Chan, Shayaan Khan, Markus Nimi
 
 This our final project for CSC110 at the University of Toronto
 
