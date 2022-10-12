@@ -4,8 +4,6 @@
 
 **Authors:** Aabid Anas, Matthew Chan, Shayaan Khan, Markus Nimi
 
-This our final project for CSC110 at the University of Toronto
-
 ## Problem Description and Research Question
 
 **What is the correlation between monthly temperature and monthly rainfall in different climate regions represented by the Köppen climate Model between 1901 and 2016?**
